@@ -1,0 +1,48 @@
+.single__course__item {
+    padding: 15px;
+  }
+  
+  .course__img img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .enroll a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #17bf9e;
+  }
+
+  
+  .title {
+    line-height: 2rem;
+    color: #230a61;
+  }
+  
+  .course__top__left h2 {
+    font-weight: 600;
+  }
+  .arrow__go {
+    width: 50px; /* Définissez la largeur */
+    height: 40px; /* Définissez la hauteur */
+    border: 2px solid #000000c4; /* Couleur de la bordure */
+    display: flex;
+    justify-content: center; /* Centre le contenu horizontalement */
+    align-items: center; /* Centre le contenu verticalement */
+    border-radius: 10px; /* Bordure arrondie */
+    background-color: transparent; /* Couleur de fond */
+    color: rgb(10, 10, 10); /* Couleur du texte */
+    text-align: center; /* Centre le texte */
+    text-decoration: none; /* Supprime les soulignements du texte */
+    font-size: 25px; /* Taille de la police */
+    cursor: pointer; /* Change le curseur au survol */
+  
+}
+
+  
+  .arrow__go:hover {
+    background-color: #230a61;
+    color: white;
+    border: none;
+  }

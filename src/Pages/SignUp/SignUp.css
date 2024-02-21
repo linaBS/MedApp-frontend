@@ -1,0 +1,66 @@
+.Gif {
+    max-width: 500px; /* Définir la largeur maximale */
+    height: auto; /* Conserver le ratio hauteur/largeur */
+    margin: 100px auto 0 250px; /* Décalage vers la droite */
+    padding: 20px; /* Ajouter du rembourrage si nécessaire */
+    border-radius: 10px; /* Coins arrondis, si nécessaire */
+  }
+  .Gif__p {
+    max-width: 800px; /* Définir la largeur maximale */
+    height: 400px; /* Conserver le ratio hauteur/largeur */
+    margin: 5px auto 0 300px; /* Décalage vers la droite */
+    padding: 20px; /* Ajouter du rembourrage si nécessaire */
+    border-radius: 10px; /* Coins arrondis, si nécessaire */
+      
+  }
+ 
+  
+.signup {
+    width: 500px;
+    margin: 50px auto 0 auto;
+    padding: 40px;
+    border: 1px solid #a5d4f1;
+    border-radius: 10px;
+  }
+  
+  .signup h1 {
+    text-align: center;
+    color: #0c8181;
+
+  }
+  
+  .signup input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .submit {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #23a5a5;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .submit:hover {
+    background-color: #1a7b7b;
+  }
+  
+  .signup p {
+    text-align: center;
+  }
+  
+  .signup a {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #23a5a5;
+  }
+  
+  .signup a:hover {
+    text-decoration: underline;
+  }
+  

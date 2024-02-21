@@ -1,0 +1,54 @@
+.GifLogin {
+    max-width: 400px; /* Définir la largeur maximale */
+    height: auto; /* Conserver le ratio hauteur/largeur */
+    margin: 100px auto 0 250px; /* Décalage vers la droite */
+    padding: 20px; /* Ajouter du rembourrage si nécessaire */
+    border-radius: 10px; /* Coins arrondis, si nécessaire */
+  }
+.login {
+    width: 500px;
+    margin: 50px auto 0 auto;
+    padding: 40px;
+    border: 1px solid #a5d4f1;
+    border-radius: 10px;
+  }
+  
+  .login h1 {
+    text-align: center;
+    color: #0c8181;
+
+  }
+  
+  .login input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .login input[type="submit"] {
+    background-color: #23a5a5;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .login input[type="submit"]:hover {
+    background-color: #1a7b7b;
+  }
+  
+  .login p {
+    text-align: center;
+  }
+  
+  .login a {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #23a5a5;
+  }
+  
+  .login a:hover {
+    text-decoration: underline;
+  }
+  

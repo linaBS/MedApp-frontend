@@ -1,0 +1,54 @@
+.welcome__content h2 {
+  font-weight: 600;
+  line-height: 55px;
+}
+
+.welcome__content {
+  padding-top: 80px;
+}
+.welcome__image {
+  width: 100%;
+  height: 400px;
+
+}
+.link__search {
+  width: 40%;
+  height: 40px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: top 10pxpx;
+  border-radius: 15px;
+  background-color: rgb(13, 136, 237);
+  color: #130236;
+  
+}
+.link__search:hover {
+  
+  color: white;
+  
+}
+.counter {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #130236;
+}
+
+.counter__title {
+  font-size: 1rem;
+  color: #130236;
+  font-weight: 500;
+}
+
+.about__content {
+  padding-left: 50px;
+}
+
+.about__img img {
+  border-radius: 15px;
+}
+
+.about__content h2 {
+  font-weight: 600;
+}

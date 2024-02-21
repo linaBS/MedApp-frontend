@@ -1,0 +1,52 @@
+
+  .BookAppointment-Form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+  }
+  
+  .BookAppointment-Form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .BookAppointment-Form input[type='text'],
+  .BookAppointment-Form input[type='time'],
+  .BookAppointment-Form textarea,
+  .BookAppointment-Form button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .BookAppointment-Form button {
+    background-color: #3c1aab;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .BookAppointment-Form button:hover {
+    background-color: #053dca;
+  }
+  
+  /* Styliser le composant DatePicker */
+  .ant-picker {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  /* Styliser le composant TimePicker */
+  .ant-picker-time-panel {
+    width: 100%;
+  }
+  
